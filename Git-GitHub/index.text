@@ -2,3 +2,6 @@
 
 git config --global user.name "João Silva"
 git config --global user.email "exemplo@seuemail.com.br"
+
+### Clonar o repositório na sua máquina local
+git clone git@github.com:dellamora/GirlsTechTalkClub.git
