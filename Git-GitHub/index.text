@@ -1,0 +1,4 @@
+### Comandos para configurar sua conta do GitHub
+
+git config --global user.name "João Silva"
+git config --global user.email "exemplo@seuemail.com.br"
