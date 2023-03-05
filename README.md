@@ -1,2 +1,2 @@
 # GirlsTechTalkClub
-Repositório para documentar todos os peojetos realizados no Gilrs Tech Talk Club
+Repositório para documentar todos os projetos realizados no Girls Tech Talk Club
